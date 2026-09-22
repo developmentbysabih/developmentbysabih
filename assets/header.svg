@@ -1,0 +1,159 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050C17"/>
+      <stop offset="0.5" stop-color="#0A1526"/>
+      <stop offset="1" stop-color="#0B1A30"/>
+    </linearGradient>
+
+    <!-- Animated Accent Flow -->
+    <linearGradient id="accent" x1="100" y1="50" x2="1100" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.45" stop-color="#818CF8"/>
+      <stop offset="0.8" stop-color="#34D399"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+      <animate attributeName="x1" values="-250;850;-250" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="550;1450;550" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Glowing Radial Light -->
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(950 160) rotate(90) scale(230 350)">
+      <stop stop-color="#38BDF8" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="codeGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 160) scale(200 120)">
+      <stop stop-color="#818CF8" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="blurFilter" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+  </defs>
+
+  <!-- Base Panels -->
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#glow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#codeGlow)"/>
+
+  <!-- Subtle Blueprint Developer Grid -->
+  <g opacity="0.08" stroke="#38BDF8">
+    <path d="M0 64H1200"/><path d="M0 128H1200"/><path d="M0 192H1200"/><path d="M0 256H1200"/>
+    <path d="M120 0V320"/><path d="M240 0V320"/><path d="M360 0V320"/><path d="M480 0V320"/>
+    <path d="M600 0V320"/><path d="M720 0V320"/><path d="M840 0V320"/><path d="M960 0V320"/><path d="M1080 0V320"/>
+  </g>
+
+  <!-- Left Accent Indicator Bar -->
+  <rect x="64" y="55" width="6" height="175" rx="3" fill="url(#accent)"/>
+
+  <!-- Left Profile Header & Typography -->
+  <text x="92" y="108" fill="#F0F9FF" font-family="Segoe UI, Inter, -apple-system, sans-serif" font-size="48" font-weight="800" letter-spacing="2">SABIH ULLAH</text>
+  <text x="94" y="148" fill="#38BDF8" font-family="Segoe UI, Inter, -apple-system, sans-serif" font-size="20" font-weight="700" letter-spacing="1.5">FULL-STACK WEB DEVELOPER  •  SYSTEMS &amp; AUTOMATION</text>
+  <text x="94" y="188" fill="#94A3B8" font-family="Segoe UI, Inter, -apple-system, sans-serif" font-size="16" font-weight="500">TypeScript  •  React  •  Python  •  Node.js  •  Tailwind CSS</text>
+  <text x="94" y="218" fill="#64748B" font-family="Segoe UI, Inter, -apple-system, sans-serif" font-size="14" font-weight="400">Crafting high-performance web platforms &amp; automated workflows</text>
+
+  <!-- Status Badge with Pulsing Live Beacon -->
+  <g transform="translate(94, 244)">
+    <rect width="280" height="32" rx="16" fill="#0C1B2E" stroke="#1E3A5F" stroke-width="1.2"/>
+    <circle cx="20" cy="16" r="4.5" fill="#34D399">
+      <animate attributeName="r" values="3.5;5.5;3.5" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="20" cy="16" r="9" stroke="#34D399" stroke-width="1.2" opacity="0.4">
+      <animate attributeName="r" values="6;13;6" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0;0.6" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="36" y="21" fill="#7DD3FC" font-family="Segoe UI, Inter, -apple-system, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.8">AVAILABLE FOR COLLABORATION</text>
+  </g>
+
+  <!-- Right Visual: Animated Floating Terminal & Code Architecture -->
+  <g transform="translate(680, 45)">
+    <!-- Terminal Outer Frame with Soft Shadow -->
+    <rect x="0" y="0" width="460" height="230" rx="14" fill="#08101E" stroke="url(#accent)" stroke-width="1.8"/>
+
+    <!-- Terminal Header Bar -->
+    <path d="M0 14C0 6.268 6.268 0 14 0H446C453.732 0 460 6.268 460 14V34H0V14Z" fill="#0F1E36"/>
+    
+    <!-- Window Controls -->
+    <circle cx="22" cy="17" r="5" fill="#EF4444"/>
+    <circle cx="38" cy="17" r="5" fill="#F59E0B"/>
+    <circle cx="54" cy="17" r="5" fill="#10B981"/>
+
+    <!-- File Tab -->
+    <rect x="76" y="7" width="130" height="20" rx="4" fill="#152744"/>
+    <text x="90" y="21" fill="#93C5FD" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" font-weight="600">App.tsx</text>
+
+    <!-- Code Content Lines -->
+    <g font-family="'JetBrains Mono', Consolas, monospace" font-size="12.5" font-weight="500">
+      <!-- Line 1 -->
+      <text x="24" y="65">
+        <tspan fill="#F472B6">import</tspan>
+        <tspan fill="#F8FAFC"> { </tspan>
+        <tspan fill="#38BDF8">FullStack</tspan>
+        <tspan fill="#F8FAFC"> } </tspan>
+        <tspan fill="#F472B6">from</tspan>
+        <tspan fill="#34D399"> "@sabih/core"</tspan>
+        <tspan fill="#94A3B8">;</tspan>
+      </text>
+
+      <!-- Line 2 -->
+      <text x="24" y="92">
+        <tspan fill="#818CF8">const</tspan>
+        <tspan fill="#F8FAFC"> engineer = </tspan>
+        <tspan fill="#F472B6">new</tspan>
+        <tspan fill="#38BDF8"> Developer</tspan>
+        <tspan fill="#F8FAFC">({</tspan>
+      </text>
+
+      <!-- Line 3 -->
+      <text x="44" y="118">
+        <tspan fill="#94A3B8">stack:</tspan>
+        <tspan fill="#F8FAFC"> [</tspan>
+        <tspan fill="#34D399">"TypeScript"</tspan>
+        <tspan fill="#F8FAFC">, </tspan>
+        <tspan fill="#34D399">"Python"</tspan>
+        <tspan fill="#F8FAFC">],</tspan>
+      </text>
+
+      <!-- Line 4 -->
+      <text x="44" y="144">
+        <tspan fill="#94A3B8">mission:</tspan>
+        <tspan fill="#34D399"> "Build. Automate. Scale."</tspan>
+        <tspan fill="#94A3B8">,</tspan>
+      </text>
+
+      <!-- Line 5 -->
+      <text x="24" y="170">
+        <tspan fill="#F8FAFC">});</tspan>
+      </text>
+
+      <!-- Line 6 -->
+      <text x="24" y="196">
+        <tspan fill="#F472B6">await</tspan>
+        <tspan fill="#F8FAFC"> engineer.</tspan>
+        <tspan fill="#38BDF8">deployToProduction</tspan>
+        <tspan fill="#F8FAFC">();</tspan>
+      </text>
+
+      <!-- Animated Typing Cursor -->
+      <rect x="290" y="184" width="7.5" height="15" fill="#38BDF8">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- Animated Data Connection Stream between left & right -->
+  <g stroke="url(#accent)" stroke-width="2" stroke-linecap="round" opacity="0.6">
+    <path d="M570 140 Q 625 100 680 120" stroke-dasharray="6 8">
+      <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <path d="M570 180 Q 625 210 680 170" stroke-dasharray="6 8">
+      <animate attributeName="stroke-dashoffset" from="0" to="28" dur="2.8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Glowing Outer Border -->
+  <rect x="1" y="1" width="1198" height="318" rx="23" stroke="url(#accent)" stroke-opacity="0.4" stroke-width="2"/>
+</svg>
