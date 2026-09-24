@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+modern+web+platforms+from+concept+to+production;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Python;Designing+scalable+dashboards+%E2%80%A2+Automation+tooling" alt="Typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1300&color=38BDF8&center=true&vCenter=true&width=820&lines=Building+modern+web+platforms+from+concept+to+production;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Python;Designing+scalable+dashboards+%E2%80%A2+Automation+tooling" alt="Typing introduction" />
   </a>
 </div>
 
@@ -18,77 +18,102 @@
 
 ## 👋 About Me
 
-I’m a **Full-Stack Web Developer** from Charsadda, Pakistan, specializing in **modern web architectures, type-safe frontend engineering, and programmatic automation**. I enjoy taking software projects from initial concept through clean UI implementation, robust state architecture, and reliable deployment.
+I’m a **Full-Stack Web Developer** from Charsadda, Pakistan, specializing in **modern web architectures, type-safe full-stack engineering, and programmatic automation**. I design and develop responsive frontend applications, high-utility business dashboards, and automated toolsets.
 
-**Current focus:** Production-ready web systems, scalable TypeScript & React applications, Python automation utilities, and clean data-driven interfaces.
+**Current focus:** Production-ready web systems, Next.js &amp; React storefronts, offline-first client architecture, and Python/FFmpeg automation pipelines.
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Selected Systems &amp; Engineering Work
 
-## 💼 [Ledger & Bookkeeping Dashboard](https://github.com/developmentbysabih/ledger-bookkeeping-dashboard)
+> *Note: Proprietary, commercial, and internal client projects are highlighted by architecture and technical scope (source code is maintained in private repositories).*
 
-**Solo Developer & Architect**
+## 💼 Small Business Bookkeeping Dashboard
 
-A dedicated financial management interface engineered for small businesses to track real-time cash flow, record income/expenses, and generate structured balance summaries.
+**Architecture: Standalone Offline-First Web Application · Solo Developer**
 
-- Built deterministic state handling for income, expense categorization, and net ledger balances
-- Designed a dark-mode-first, accessible dashboard layout optimized for quick transaction entry
-- Structured clean, responsive data tables with localized storage persistence and zero framework overhead
-- Implemented exportable summary views to facilitate financial auditing and daily bookkeeping
+A zero-dependency small-business financial management system engineered to run entirely offline inside the client’s browser with zero server latency and complete data privacy.
+
+- Designed an **offline-first local persistence architecture** storing all ledger and transaction states securely in the browser
+- Built deterministic financial calculations for income categorization, recurring expense tracking, and dynamic cash-flow balances
+- Crafted a clean, dark-mode responsive UI packaged into a lightweight, zero-dependency deployment
+- Implemented client-side reporting views and summary exports for frictionless daily bookkeeping
 
 <div align="center">
-  <a href="https://github.com/developmentbysabih/ledger-bookkeeping-dashboard"><img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
-  <a href="https://github.com/developmentbysabih/ledger-bookkeeping-dashboard"><img src="https://img.shields.io/badge/CODEBASE-0E7490?style=for-the-badge&logo=javascript&logoColor=white" alt="Codebase" /></a>
+  <img src="https://img.shields.io/badge/STATUS-INTERNAL_TOOL-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Private System" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-OFFLINE_FIRST-0891B2?style=for-the-badge&logoColor=white" alt="Offline First" />
+  <img src="https://img.shields.io/badge/STACK-JAVASCRIPT_%7C_CSS3-0E7490?style=for-the-badge&logo=javascript&logoColor=white" alt="Stack" />
 </div>
 
 <br/>
 
-## ⚡ [UltraFetch — Automated Media Extraction Engine](https://github.com/developmentbysabih/UltraFetch-Any-Downloader)
+## 🛒 Digital License &amp; Services Storefront
 
-**Solo Developer & Author**
+**Full-Stack E-Commerce &amp; Reseller Platform · Next.js · TypeScript**
 
-A high-efficiency Python utility built for automated stream parsing, resilient payload retrieval, and programmatic file pipeline automation.
+A mobile-first storefront engineered for automated digital product distribution, license delivery, and third-party subscription fulfillment via external API integrations.
 
-- Engineered stream-chunk retrieval pipelines with robust exception handling and automatic retries
-- Implemented command-line parameters for batch link processing and flexible target directory routing
-- Designed clean status reporting to track payload progress, data throughput, and transfer integrity
+- Engineered with **Next.js and TypeScript** for server-rendered speed, strong type safety, and optimal mobile UX
+- Integrated external REST APIs (**SafwanTiger Reseller API**) for automated catalog synchronization and account fulfillment
+- Designed responsive product showcases, tiered subscription selectors, and automated checkout handshakes
+- Implemented secure API request authentication, payload validation, and client-side state caching
 
 <div align="center">
-  <a href="https://github.com/developmentbysabih/UltraFetch-Any-Downloader"><img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View UltraFetch" /></a>
-  <a href="https://github.com/developmentbysabih/UltraFetch-Any-Downloader"><img src="https://img.shields.io/badge/PYTHON_CORE-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python Core" /></a>
+  <img src="https://img.shields.io/badge/STATUS-COMMERCIAL_PROJECT-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Commercial Project" />
+  <img src="https://img.shields.io/badge/FRAMEWORK-NEXT.JS-0891B2?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/STACK-TYPESCRIPT_%7C_REST_APIS-0E7490?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
 <br/>
 
-## 🛠️ [Sabih Tools Store — Web Utility Suite](https://github.com/developmentbysabih/sabih-tools-store)
+## 🎬 Video Repurposing &amp; Automation Suite
 
-**Lead Frontend Developer**
+**Desktop Automation Utility · Python · FFmpeg · OpenAI Whisper · yt-dlp**
 
-A modular collection of browser-based utilities built with TypeScript, engineered to eliminate recurring digital workflows with instantaneous, zero-latency client-side processing.
+A specialized local media repurposing engine designed to ingest long-form video content, perform automated speech recognition, and generate short-form clips with burnt-in captions.
 
-- Implemented micro-tools utilizing native browser APIs and strict TypeScript type boundaries
-- Designed a modular architecture allowing rapid addition of independent utility modules
-- Emphasized responsive UI feedback and zero server-roundtrip latency for daily developer operations
+- Integrated **yt-dlp** for programmatic multi-source media acquisition with fallback format handlers
+- Automated speech-to-text generation and timestamped subtitle alignment using **OpenAI Whisper**
+- Built **FFmpeg** processing pipelines for automated video cropping (16:9 to 9:16 vertical), filter chaining, and clip slicing
+- Reduced manual editing time by over 80% through deterministic CLI-driven workflow automation
 
 <div align="center">
-  <a href="https://github.com/developmentbysabih/sabih-tools-store"><img src="https://img.shields.io/badge/VIEW_PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a>
-  <a href="https://github.com/developmentbysabih/sabih-tools-store"><img src="https://img.shields.io/badge/TYPESCRIPT-0E7490?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <img src="https://img.shields.io/badge/STATUS-AUTOMATION_TOOL-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Automation Tool" />
+  <img src="https://img.shields.io/badge/PIPELINE-FFMPEG_%7C_WHISPER-0891B2?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="FFmpeg Whisper" />
+  <img src="https://img.shields.io/badge/ENGINE-PYTHON_3-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <br/>
 
-### Other Public Repositories
+## ⚡ UltraFetch — Stream Extraction Utility
 
-- [**Video Tool**](https://github.com/developmentbysabih/video-tool) — Client-side media processing and stream manipulation interface  
-- [**Shift Worker Weekly Planner**](https://github.com/developmentbysabih/shift-worker-weekly-planner) — Interactive schedule optimization and shift tracking application  
-- [**Wedding Budget Planner**](https://github.com/developmentbysabih/wedding-budget-planner) — Interactive cost estimator and category allocation tool
+**Media Extraction Script · Python CLI**
+
+A command-line automated extraction utility engineered for robust stream retrieval, resilient chunk downloads, and automated media file organization.
+
+- Designed streaming chunk download pipelines with automatic retry algorithms and network timeout resilience
+- Implemented batch URL parsing, format selection, and structured local directory routing
+- Built real-time CLI progress monitoring tracking download speeds, bytes transferred, and payload integrity
+
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-PRIVATE_UTILITY-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Private Utility" />
+  <img src="https://img.shields.io/badge/TYPE-CLI_AUTOMATION-0891B2?style=for-the-badge" alt="CLI Automation" />
+  <img src="https://img.shields.io/badge/CORE-PYTHON-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</div>
+
+<br/>
+
+### Additional Domain Utilities &amp; Systems
+
+- **Shift Worker Weekly Planner** — Interactive scheduling and shift allocation application built for dynamic roster planning.
+- **Wedding &amp; Event Budget Planner** — Client-side budget estimation tool with category-based expense distribution.
+- **Media Clipping Software** — Local helper application for rapid asset trimming and segmentation.
 
 ---
 
 # 🧰 Core Engineering Stack
 
-### Languages & Core Web
+### Languages &amp; Core Web
 
 <div align="center">
 <table>
@@ -103,15 +128,15 @@ A modular collection of browser-based utilities built with TypeScript, engineere
 </table>
 </div>
 
-### Frameworks, Libraries & Runtime
+### Frameworks, Libraries &amp; Tools
 
 <div align="center">
 <table>
 <tr>
 <td align="center" width="130"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="130"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
 <td align="center" width="130"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS"/><br/><sub><b>Tailwind CSS</b></sub></td>
 <td align="center" width="130"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="130"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express"/><br/><sub><b>Express</b></sub></td>
 <td align="center" width="130"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
 <td align="center" width="130"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" alt="Postman"/><br/><sub><b>Postman</b></sub></td>
 </tr>
@@ -120,21 +145,22 @@ A modular collection of browser-based utilities built with TypeScript, engineere
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=next.js&logoColor=38BDF8" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
   <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logoColor=38BDF8" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/FFmpeg_%26_Whisper-0F172A?style=for-the-badge&logoColor=38BDF8" alt="FFmpeg and Whisper" />
   <img src="https://img.shields.io/badge/Python_Automation-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python Automation" />
-  <img src="https://img.shields.io/badge/UI_Architecture-0F172A?style=for-the-badge&logoColor=38BDF8" alt="UI Architecture" />
 </div>
 
 <details>
 <summary><b>Additional technologies &amp; methodologies</b></summary>
 <br/>
-TypeScript · JavaScript (ES6+) · React · Tailwind CSS · Node.js · Express · Python 3 · Git Version Control · GitHub Workflows · RESTful API Design · Asynchronous State Management · Web APIs · Vite · Clean Code Architecture
+TypeScript · JavaScript (ES6+) · React · Next.js · Tailwind CSS · Node.js · Express · Python 3 · FFmpeg · yt-dlp · OpenAI Whisper · RESTful APIs · Offline-First Architecture · Git Version Control · GitHub · Postman · Linux CLI
 </details>
 
 ---
 
-# 📊 Engineering Activity & Metrics
+# 📊 Engineering Activity &amp; Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developmentbysabih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
@@ -144,9 +170,9 @@ TypeScript · JavaScript (ES6+) · React · Tailwind CSS · Node.js · Express �
 
 ---
 
-# 🤝 Open to Engineering Opportunities & Collaboration
+# 🤝 Open to Engineering Opportunities &amp; Collaboration
 
-I’m actively looking for opportunities and projects involving **Full-Stack Web Development, Frontend Engineering (React / TypeScript), and Python Automation**.
+I’m actively looking for opportunities and projects involving **Full-Stack Web Development, Next.js / TypeScript Architecture, and Python Media &amp; Workflow Automation**.
 
 <div align="center">
   <a href="mailto:devbysabih@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
