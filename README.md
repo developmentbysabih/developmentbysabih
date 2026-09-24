@@ -127,14 +127,6 @@ I engineer software that balances **speed, deterministic architecture, and user 
 
 ---
 
-# 📊 Engineering Activity &amp; 3D Contribution Calendar
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Sabih's 3D Green Contribution Calendar" />
-</div>
-
----
-
 # 🤝 Open to Engineering Opportunities &amp; Collaboration
 
 I am available for full-time engineering roles, technical contract work, and ambitious collaborations in **Full-Stack Web Engineering (Next.js / TypeScript), UI Systems, and Python Automation**.
