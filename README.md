@@ -163,7 +163,7 @@ TypeScript · JavaScript (ES6+) · React · Next.js · Tailwind CSS · Node.js �
 # 📊 Engineering Activity &amp; 3D Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Sabih's 3D Contribution Graph" />
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Sabih's 3D Green Contribution Calendar" />
 </div>
 
 <br/>
