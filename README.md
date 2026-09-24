@@ -127,6 +127,14 @@ I engineer software that balances **speed, deterministic architecture, and user 
 
 ---
 
+# 📈 Contribution Activity
+
+<div align="center">
+  <img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Arcade Animation" />
+</div>
+
+---
+
 # 🤝 Open to Engineering Opportunities &amp; Collaboration
 
 I am available for full-time engineering roles, technical contract work, and ambitious collaborations in **Full-Stack Web Engineering (Next.js / TypeScript), UI Systems, and Python Automation**.
