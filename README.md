@@ -160,7 +160,13 @@ TypeScript · JavaScript (ES6+) · React · Next.js · Tailwind CSS · Node.js �
 
 ---
 
-# 📊 Engineering Activity &amp; Metrics
+# 📊 Engineering Activity &amp; 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="Sabih's 3D Contribution Graph" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developmentbysabih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
