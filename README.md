@@ -2,36 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="Sabih Ullah — Full-Stack Systems Engineer &amp; Web Architect" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Architect+%E2%80%A2+Next.js+%2B+TypeScript;Building+Resilient+Web+Apps+%26+Automation+Pipelines;Zero-Dependency+Offline-First+Engineering;Transforming+Complex+Workflows+into+Clean+Software" alt="Typing introduction" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sabihullah-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:devbysabih@gmail.com">
-    <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/developmentbysabih">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### ⚡ Engineering Focus &amp; Core Philosophy
-
-I engineer software that balances **speed, deterministic architecture, and user intuition**. My work spans two primary disciplines:
-
-- **Full-Stack Web Systems:** Architecting responsive, type-safe web platforms using **Next.js, React, and TypeScript** with a focus on modular component design, state predictability, and optimal Core Web Vitals.
-- **Automation &amp; Media Engineering:** Developing high-throughput utilities in **Python** (leveraging **FFmpeg, yt-dlp, and OpenAI Whisper**) that transform hours of manual asset processing into zero-friction automated pipelines.
-
----
+<br/>
 
 # 🚀 Flagship Systems &amp; Architectures
 
@@ -106,7 +77,7 @@ I engineer software that balances **speed, deterministic architecture, and user 
 
 ---
 
-# 🧰 Technical Competency &amp; Tooling
+# 🧰 Core Engineering Stack
 
 <div align="center">
   <p>
@@ -116,39 +87,17 @@ I engineer software that balances **speed, deterministic architecture, and user 
   </p>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=38BDF8" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=38BDF8" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React" />
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
-  <img src="https://img.shields.io/badge/FFmpeg_%26_Whisper-0D1117?style=for-the-badge&logo=ffmpeg&logoColor=38BDF8" alt="FFmpeg" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" alt="Tailwind" />
-</div>
-
 ---
 
-# 📈 Contribution Activity
-
 <div align="center">
-  <img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Arcade Animation" />
-</div>
-
----
-
-# 🤝 Open to Engineering Opportunities &amp; Collaboration
-
-I am available for full-time engineering roles, technical contract work, and ambitious collaborations in **Full-Stack Web Engineering (Next.js / TypeScript), UI Systems, and Python Automation**.
-
-<div align="center">
-  <a href="mailto:devbysabih@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/sabihullah-developer" target="_blank"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/developmentbysabih"><img src="https://img.shields.io/badge/EXPLORE_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
+  <h3>🤝 Let's Build Something Exceptional</h3>
+  <a href="mailto:devbysabih@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sabihullah-developer" target="_blank"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Engineered with precision by Sabih Ullah • Building resilient software from concept to production</sub>
+  <sub>Engineered by Sabih Ullah • Full-Stack Web Systems &amp; Automation</sub>
 </div>
